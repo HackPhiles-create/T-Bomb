@@ -13,3 +13,5 @@ $cd TBomb
 $chmod +x TBomb.sh 
 
 $./TBomb.sh
+
+🃏Tool Has install🃏
